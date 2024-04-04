@@ -9,4 +9,4 @@ najviše piše, koliki je postotak spominjanja određene vrste obrazovanja, koli
 negativno, a koji broj pozitivno napisanih članaka vezanih za odgoj i obrazovanje itd. 
 
 Ključne riječi: obrazovanje, odgoj, novinski članak, analiza sadržaja, kvaliteta obrazovanja, 
-Web porta
+Web portal
